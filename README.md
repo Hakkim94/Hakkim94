@@ -5,7 +5,7 @@
 
 <!-- 2. TYPING HEADER -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Building+REST+APIs+that+ship+to+production;SSpring+Data+JPA+%7C+Hibernate+%7C+MySQL+%7C+Oracle+SQL;DDebugging+live+systems+one+edge+case+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Building+REST+APIs+that+ship+to+production;SSpring+Data+JPA+%7C+Hibernate+%7C+MySQL+%7C+Oracle+SQL;DDebugging+live+systems+one+edge+case+at+a+time" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Hakkim94&label=Profile%20Views&color=70a5fd&style=flat-square" alt="profile views" />
